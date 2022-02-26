@@ -18,7 +18,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-![update_image1.png](/home/ricardosr90/Documents/notes/images/update_image1.png)
+![update_image1.png](/images/update_image1.png)
 
 ![upgrade_image2.png](/home/ricardosr90/Documents/notes/images/upgrade_image2.png)
 
