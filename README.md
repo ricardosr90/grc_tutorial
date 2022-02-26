@@ -1,4 +1,4 @@
-### Rádios Definidos por software, 1s2022 - PPGEEC/Mackenzie
+### Rádios Definidos por Software, 1s2022 - PPGEEC/Mackenzie
 
 # Tutorial de instalação do UHD e do GNU Radio Companion
 
